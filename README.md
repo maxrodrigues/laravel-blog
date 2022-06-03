@@ -1,6 +1,6 @@
 Projeto de Blog em Laravel
 
-Usuários
-Artigos
-Categorias
-Comentários
+- Usuários
+- Artigos
+- Categorias
+- Comentários
