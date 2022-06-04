@@ -1,12 +1,12 @@
 Projeto de Blog em Laravel
 
 - Usuários
-    - [ ] Cadastro via formulário;
-    - [ ] Vizualićão dos dados (perfil);
+    - [x] Cadastro via formulário;
+    - [x] Vizualićão dos dados (perfil);
     - [ ] Atualizaćão;
-        - [ ] Upload de imagem de perfil;
-        - [ ] Dados pessoais (nome e senha);
-    - [ ] Inativaćão do perfil;
+        - [x] Upload de imagem de perfil;
+        - [x] Dados pessoais (nome e senha);
+    - [x] Inativaćão do perfil;
 
 - Categorias
     - [ ] Listar categorias;
